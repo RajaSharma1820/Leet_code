@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/RajaSharma1820/Leet_code/tree/master/1652-defuse-the-bomb) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 ## Divide and Conquer
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/RajaSharma1820/Leet_code/tree/master/3870-count-commas-in-range) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
