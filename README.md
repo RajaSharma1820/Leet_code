@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
