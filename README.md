@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
+| [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [3870-count-commas-in-range](https://github.com/RajaSharma1820/Leet_code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
