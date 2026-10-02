@@ -77,6 +77,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
+| [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [3870-count-commas-in-range](https://github.com/RajaSharma1820/Leet_code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
@@ -90,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -101,5 +103,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
