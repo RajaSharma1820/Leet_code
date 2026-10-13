@@ -20,6 +20,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
