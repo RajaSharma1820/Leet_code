@@ -13,6 +13,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/RajaSharma1820/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/RajaSharma1820/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -72,6 +73,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/RajaSharma1820/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/RajaSharma1820/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
