@@ -22,6 +22,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
@@ -44,6 +45,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,12 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
