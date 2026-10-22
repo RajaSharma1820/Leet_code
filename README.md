@@ -25,6 +25,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
@@ -49,6 +50,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajaSharma1820/Leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
