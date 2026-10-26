@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/RajaSharma1820/Leet_code/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/RajaSharma1820/Leet_code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1052-grumpy-bookstore-owner](https://github.com/RajaSharma1820/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -133,6 +134,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/RajaSharma1820/Leet_code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
