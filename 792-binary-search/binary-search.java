@@ -1,20 +1,12 @@
 class Solution {
+    public static int helper(int[] nums, int target, int lo, int hi){
+        if(lo>hi) return -1;
+        int mid = lo+(hi-lo)/2;
+        if(nums[mid]==target) return mid;
+        else if(nums[mid]>target) return helper(nums,target,lo,mid-1);
+        else return helper(nums,target,mid+1,hi);
+    }
     public int search(int[] nums, int target) {
-        int start = 0;
-        int end = nums.length-1;
-        int mid = (start+end)/2;
-        while(start<=end){
-            if(nums[mid]==target){
-                return mid;
-            }
-            if(target>nums[mid]){
-                start = mid+1;
-            }
-            else{
-                end = mid-1;
-            }
-            mid = (start+end)/2;
-        }
-        return -1;
+        return helper(nums,target,0,nums.length-1);
     }
 }
