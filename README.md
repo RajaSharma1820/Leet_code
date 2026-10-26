@@ -37,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajaSharma1820/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -72,6 +73,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajaSharma1820/Leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,4 +152,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
