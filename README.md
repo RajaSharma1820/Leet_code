@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RajaSharma1820/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RajaSharma1820/Leet_code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/RajaSharma1820/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajaSharma1820/Leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | [0088-merge-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -163,4 +166,24 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
