@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -121,6 +123,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 ## Stack
