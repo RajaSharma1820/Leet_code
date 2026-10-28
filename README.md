@@ -14,6 +14,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0643-maximum-average-subarray-i](https://github.com/RajaSharma1820/Leet_code/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/RajaSharma1820/Leet_code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -141,6 +143,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/RajaSharma1820/Leet_code/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
@@ -153,10 +156,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
@@ -173,6 +178,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -186,4 +192,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
