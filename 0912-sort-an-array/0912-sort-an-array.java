@@ -1,63 +1,39 @@
-
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
+        merge(nums, 0, nums.length - 1);
         return nums;
     }
-
-    public void mergeSort(int[] nums, int left, int right) {
-        if (left >= right) {
+    public static void merge(int[] nums, int left, int right){
+        if(left>=right){
             return;
         }
+        int mid = left+(right-left)/2;
+        merge(nums,left,mid);
+        merge(nums,mid+1,right);
 
-        int mid = left + (right - left) / 2;
-
-        mergeSort(nums, left, mid);
-        mergeSort(nums, mid + 1, right);
-
-        merge(nums, left, mid, right);
+        mrgsort(nums,left,mid,right);
     }
-
-    public void merge(int[] nums, int left, int mid, int right) {
-        int n1 = mid - left + 1;
-        int n2 = right - mid;
-
-        int[] a = new int[n1];
-        int[] b = new int[n2];
-
-        for (int i = 0; i < n1; i++) {
-            a[i] = nums[left + i];
-        }
-
-        for (int j = 0; j < n2; j++) {
-            b[j] = nums[mid + 1 + j];
-        }
-
-        int i = 0;
-        int j = 0;
-        int k = left;
-
-        while (i < n1 && j < n2) {
-            if (a[i] <= b[j]) {
-                nums[k] = a[i];
-                i++;
-            } else {
-                nums[k] = b[j];
-                j++;
+    public static void mrgsort(int[] nums, int left,int mid, int right){
+        int[] temp = new int[right-left+1];
+        int i= left;
+        int j=mid+1;
+        int k=0;
+        while(i<=mid && j<=right){
+            if(nums[i]<=nums[j]){
+                temp[k++]=nums[i++];
             }
-            k++;
+            else{
+                temp[k++]=nums[j++];
+            }
         }
-
-        while (i < n1) {
-            nums[k] = a[i];
-            i++;
-            k++;
+        while(i<=mid){
+            temp[k++]=nums[i++];
         }
-
-        while (j < n2) {
-            nums[k] = b[j];
-            j++;
-            k++;
+        while(j<=right){
+            temp[k++]=nums[j++];
+        }
+        for (int p = 0; p < temp.length; p++) {
+            nums[left + p] = temp[p];
         }
     }
 }
