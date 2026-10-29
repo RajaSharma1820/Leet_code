@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -200,4 +201,12 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
