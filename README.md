@@ -45,6 +45,7 @@
 | [0022-generate-parentheses](https://github.com/RajaSharma1820/Leet_code/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RajaSharma1820/Leet_code/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/RajaSharma1820/Leet_code/tree/master/0070-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajaSharma1820/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/RajaSharma1820/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
 | [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RajaSharma1820/Leet_code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
