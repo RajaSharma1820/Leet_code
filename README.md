@@ -113,6 +113,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/RajaSharma1820/Leet_code/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/RajaSharma1820/Leet_code/tree/master/0342-power-of-four) |
 | [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [2409-count-days-spent-together](https://github.com/RajaSharma1820/Leet_code/tree/master/2409-count-days-spent-together) |
@@ -215,4 +216,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RajaSharma1820/Leet_code/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RajaSharma1820/Leet_code/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RajaSharma1820/Leet_code/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
