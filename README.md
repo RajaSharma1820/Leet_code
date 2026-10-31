@@ -224,4 +224,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RajaSharma1820/Leet_code/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
