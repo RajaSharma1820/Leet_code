@@ -124,6 +124,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajaSharma1820/Leet_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2409-count-days-spent-together](https://github.com/RajaSharma1820/Leet_code/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RajaSharma1820/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/RajaSharma1820/Leet_code/tree/master/3870-count-commas-in-range) |
@@ -246,6 +247,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RajaSharma1820/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajaSharma1820/Leet_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
