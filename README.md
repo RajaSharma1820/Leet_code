@@ -222,6 +222,7 @@
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0707-design-linked-list) |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -248,6 +249,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RajaSharma1820/Leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajaSharma1820/Leet_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/RajaSharma1820/Leet_code/tree/master/1721-swapping-nodes-in-a-linked-list) |
