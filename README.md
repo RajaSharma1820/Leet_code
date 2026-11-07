@@ -29,6 +29,7 @@
 | [1652-defuse-the-bomb](https://github.com/RajaSharma1820/Leet_code/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/RajaSharma1820/Leet_code/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -194,6 +195,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/RajaSharma1820/Leet_code/tree/master/1882-process-tasks-using-servers) |
 ## Merge Sort
 |  |
 | ------- |
