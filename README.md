@@ -22,6 +22,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/RajaSharma1820/Leet_code/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/RajaSharma1820/Leet_code/tree/master/0912-sort-an-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/RajaSharma1820/Leet_code/tree/master/1052-grumpy-bookstore-owner) |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RajaSharma1820/Leet_code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RajaSharma1820/Leet_code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -259,4 +261,20 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajaSharma1820/Leet_code/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
