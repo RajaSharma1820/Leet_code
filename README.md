@@ -131,6 +131,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajaSharma1820/Leet_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2409-count-days-spent-together](https://github.com/RajaSharma1820/Leet_code/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RajaSharma1820/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RajaSharma1820/Leet_code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/RajaSharma1820/Leet_code/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/3871-count-commas-in-range-ii) |
 ## Prefix Sum
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/RajaSharma1820/Leet_code/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
 |  |
 | ------- |
