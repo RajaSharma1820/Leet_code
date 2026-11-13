@@ -36,6 +36,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RajaSharma1820/Leet_code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RajaSharma1820/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
@@ -118,6 +119,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajaSharma1820/Leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -159,10 +161,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajaSharma1820/Leet_code/tree/master/0042-trapping-rain-water) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/RajaSharma1820/Leet_code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RajaSharma1820/Leet_code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,4 +288,12 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/RajaSharma1820/Leet_code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
