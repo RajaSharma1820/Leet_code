@@ -28,6 +28,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RajaSharma1820/Leet_code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RajaSharma1820/Leet_code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/RajaSharma1820/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajaSharma1820/Leet_code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/RajaSharma1820/Leet_code/tree/master/1652-defuse-the-bomb) |
@@ -68,6 +69,7 @@
 | [0217-contains-duplicate](https://github.com/RajaSharma1820/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RajaSharma1820/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/RajaSharma1820/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RajaSharma1820/Leet_code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -88,6 +90,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RajaSharma1820/Leet_code/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/RajaSharma1820/Leet_code/tree/master/1267-count-servers-that-communicate) |
+| [1512-number-of-good-pairs](https://github.com/RajaSharma1820/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -136,6 +139,7 @@
 | [0492-construct-the-rectangle](https://github.com/RajaSharma1820/Leet_code/tree/master/0492-construct-the-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/RajaSharma1820/Leet_code/tree/master/0633-sum-of-square-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RajaSharma1820/Leet_code/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/RajaSharma1820/Leet_code/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RajaSharma1820/Leet_code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/RajaSharma1820/Leet_code/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RajaSharma1820/Leet_code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
