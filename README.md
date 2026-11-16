@@ -100,6 +100,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RajaSharma1820/Leet_code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/RajaSharma1820/Leet_code/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/RajaSharma1820/Leet_code/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/RajaSharma1820/Leet_code/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
@@ -247,6 +248,7 @@
 | ------- |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajaSharma1820/Leet_code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Memoization
 |  |
 | ------- |
