@@ -36,6 +36,7 @@
 | [1672-richest-customer-wealth](https://github.com/RajaSharma1820/Leet_code/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/RajaSharma1820/Leet_code/tree/master/1882-process-tasks-using-servers) |
+| [1929-concatenation-of-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajaSharma1820/Leet_code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/RajaSharma1820/Leet_code/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RajaSharma1820/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -254,6 +255,7 @@
 | ------- |
 | [1603-design-parking-system](https://github.com/RajaSharma1820/Leet_code/tree/master/1603-design-parking-system) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RajaSharma1820/Leet_code/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1929-concatenation-of-array](https://github.com/RajaSharma1820/Leet_code/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/RajaSharma1820/Leet_code/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Memoization
 |  |
